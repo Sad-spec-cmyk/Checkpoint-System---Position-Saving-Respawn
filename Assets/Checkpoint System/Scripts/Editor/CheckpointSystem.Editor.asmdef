@@ -1,0 +1,6 @@
+{
+  "name": "CheckpointSystem.Editor",
+  "rootNamespace": "CheckpointSystem.Editor",
+  "references": ["CheckpointSystem.Runtime"],
+  "includePlatforms": ["Editor"]
+}

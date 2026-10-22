@@ -1,0 +1,5 @@
+{
+  "name": "CheckpointSystem.Demo",
+  "rootNamespace": "CheckpointSystem.Demo",
+  "references": ["CheckpointSystem.Runtime"]
+}

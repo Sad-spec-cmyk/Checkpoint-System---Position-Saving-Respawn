@@ -1,0 +1,8 @@
+CHECKPOINT SYSTEM 1.0.0 - DEPENDENCY NOTICES
+
+No third-party source libraries, font files, music or audio files are bundled.
+
+The demo references Unity built-in primitives, the Standard shader, engine
+APIs, IMGUI styles and TextMesh font resources. These are supplied by the
+Unity installation and remain subject to Unity terms.
+
